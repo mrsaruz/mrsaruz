@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsaruz
 
-- 🌱 I’m currently learning I am currently learning programming at 42. Campus 42 is an innovative programming school
+- 🌱 I’m currently learning programming at 42. Campus 42 is an innovative programming school
   that offers an educational approach without traditional teachers or classes. With a project-based learning method
   and peer-to-peer collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
 - 📫 How to reach me: Instagram (@adrianaruz)
