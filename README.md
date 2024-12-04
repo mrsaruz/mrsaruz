@@ -6,7 +6,9 @@
 </div>
 
 ### :woman_technologist: About me
-I’m currently learning programming at 42. **Campus 42** is an innovative _programming school_
+I’m currently learning programming at 42. 
+
+**Campus 42** is an innovative _programming school_
   that offers an educational approach without traditional teachers or classes. With a project-based learning method
   and **peer-to-peer** collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
 
