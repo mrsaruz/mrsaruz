@@ -5,6 +5,8 @@
   </a>
 </div>
 
+---
+
 ### :woman_technologist: About me
 I’m currently learning programming at 42. 
 
