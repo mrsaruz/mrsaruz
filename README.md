@@ -1,12 +1,19 @@
-👋 Hi, I’m **Adri**
+<!-- Introduction-->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3A4FFF&center=true&width=435&lines=Hello+there%2C+I'm+Adri;Welcome+to+my+GitHub" alt="Hello" />
+  </a>
+</div>
 
-:woman_technologist: I’m currently learning programming at 42. **Campus 42** is an innovative _programming school_
+### :woman_technologist: About me
+I’m currently learning programming at 42. **Campus 42** is an innovative _programming school_
   that offers an educational approach without traditional teachers or classes. With a project-based learning method
   and **peer-to-peer** collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
 
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianaruz/)
 
 <!---
+### Skills
 |  | Experience with |
 |-----------------|-------------------|
 | Languages       | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
