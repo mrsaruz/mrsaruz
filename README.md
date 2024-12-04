@@ -12,7 +12,12 @@ I’m currently learning programming at 42.
   that offers an educational approach without traditional teachers or classes. With a project-based learning method
   and **peer-to-peer** collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
 
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianaruz/)
+
+### :milky_way: Contact me:
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianaruz/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adruz-to@student.42malaga.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/adrianaruz)
 
 <!---
 ### Skills
