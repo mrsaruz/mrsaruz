@@ -6,7 +6,7 @@
 </div>
 -->
 <p style = 'text-align:center;'>
-<img src="/images/header.gif" alt="Header">
+<img src="/images/hello.png" alt="Header">
 </p>
 </div>
 
