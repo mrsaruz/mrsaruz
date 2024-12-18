@@ -6,13 +6,13 @@
 </div>
 -->
 <p style = 'text-align:center;'>
-<img src="/images/hello.png" alt="Header">
+<img src="/images/city.png" alt="Header">
 </p>
 </div>
 
 <h3 align="center"> 👋 About me</h3>
 <p align="center">
-  <samp>I’m currently learning programming at 42. <b>Campus 42</b> is an innovative <i>programming school</i>
+  <samp>Hello, hello! I'm Adri. I’m currently learning programming at 42. <b>Campus 42</b> is an innovative <i>programming school</i>
    that offers an educational approach without traditional teachers or classes. With a project-based learning method
    and <b>peer-to-peer</b> collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
   </samp>
