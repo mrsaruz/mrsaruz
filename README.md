@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3A4FFF&center=true&width=435&lines=Hello+there%2C+I'm+Adri;Welcome+to+my+GitHub" alt="Hello" />
   </a>
 </div>
-
-<image src="hello.gif" alt="Header">
 -->
+<p style = 'text-align:center;'>
+<img src="/images/header.gif" alt="Header">
+</p>
+</div>
 
 
-
----
 
 ### :woman_technologist: About me
 I’m currently learning programming at 42. 
