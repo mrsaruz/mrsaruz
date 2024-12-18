@@ -10,7 +10,7 @@
 </p>
 </div>
 
-<h2 align="center"> 👋 About me</h2>
+<h3 align="center"> 👋 About me</h3>
 <p align="center">
   <samp>I’m currently learning programming at 42. <b>Campus 42</b> is an innovative _programming school_
    that offers an educational approach without traditional teachers or classes. With a project-based learning method
@@ -20,7 +20,7 @@
 </p>
 
 
-<h2  align="center">📫 Reach me on</h2>
+<h3  align="center">📫 Contact me</h3>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/adrianaruz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:adruz-to@student.42malaga.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
