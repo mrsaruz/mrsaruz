@@ -4,27 +4,29 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3A4FFF&center=true&width=435&lines=Hello+there%2C+I'm+Adri;Welcome+to+my+GitHub" alt="Hello" />
   </a>
 </div>
-
-<image src="hello.gif" alt="Header">
 -->
+<p style = 'text-align:center;'>
+<img src="/images/header.gif" alt="Header">
+</p>
+</div>
+
+<h2 align="center"> 👋 About me</h2>
+<p align="center">
+  <samp>I’m currently learning programming at 42. <b>Campus 42</b> is an innovative _programming school_
+   that offers an educational approach without traditional teachers or classes. With a project-based learning method
+   and <b>peer-to-peer</b> collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
+  </samp>
+  <br> <br>
+</p>
 
 
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/adrianaruz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adruz-to@student.42malaga.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/adrianaruz"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
----
-
-### :woman_technologist: About me
-I’m currently learning programming at 42. 
-
-> **Campus 42** is an innovative _programming school_
->   that offers an educational approach without traditional teachers or classes. With a project-based learning method
->   and **peer-to-peer** collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
-
-
-### :milky_way: Contact me:
-
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianaruz/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adruz-to@student.42malaga.com)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/adrianaruz)
 
 
 
