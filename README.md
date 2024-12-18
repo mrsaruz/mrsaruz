@@ -28,7 +28,7 @@ I’m currently learning programming at 42.
 
 
 
-
+<!--
  
 ### 🚀 Skills
 |  | Experience with |
