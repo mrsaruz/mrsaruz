@@ -5,9 +5,10 @@
   </a>
 </div>
 
-<image src="img/tallerGit/hello.gif" alt="Descripción de la imagen">
-
+<image src="hello.gif" alt="Header">
 -->
+
+
 
 ---
 
