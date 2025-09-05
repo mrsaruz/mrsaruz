@@ -5,11 +5,15 @@
   </a>
 </div>
 -->
+
+
 <p style = 'text-align:center;'>
 <img src="/images/city.png" alt="Header">
 </p>
 </div>
 
+
+<!--
 <h3 align="center"> 👋 About me</h3>
 <p align="center">
   <samp>Hello, hello! I'm Adri. I’m currently learning programming at 42. <b>Campus 42</b> is an innovative <i>programming school</i>
@@ -28,7 +32,7 @@
   <a href="mailto:adruz-to@student.42malaga.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
+-->
 
 
 <!--
@@ -49,3 +53,59 @@
 mrsaruz/mrsaruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<h3 align="center">✨ Hello, hello, I'm Adriana (aka mrsaruz) ✨</h3>
+
+<p align="center">
+  Programming student at <strong>42 Málaga</strong> since September 2024.  
+  Passionate about technology, continuous learning, and creativity through code.  
+</p>
+
+---
+
+### 🚀 About Me
+- 🎓 Currently studying at **42 Málaga**. <b>Campus 42</b> is an innovative <i>programming school</i>
+   that offers an educational approach without traditional teachers or classes. With a project-based learning method
+   and <b>peer-to-peer</b> collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
+- 💻 Languages & technologies:
+  - **C** (main focus)  
+  - **Python** *(learning)*  
+  - **HTML, CSS, JavaScript** *(learning)*  
+- 🛡 Completed the **Google Cybersecurity Fundamentals** course in 2024
+- 📚 Enrolled in **CS50x: Introduction to Computer Science** at **Harvard John A. Paulson School of Engineering and Applied Sciences**
+
+---
+
+### 🛠️ Tech Stack
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrsaruz&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- Deepening knowledge of **C** through 42 projects  
+- Data structures & algorithms (CS50x)  
+- Best practices in **cybersecurity**  
+- Web development with **HTML, CSS, and JavaScript**  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianaruz/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adrianaruz@gmail.com)
+
+---
+
+<p align="center"><em>"Code is not just instruction, it's also art and a path of constant learning."</em></p>
+
