@@ -16,7 +16,7 @@
 <!--
 <h3 align="center"> 👋 About me</h3>
 <p align="center">
-  <samp>Hello, hello! I'm Adri. I’m currently learning programming at 42. <b>Campus 42</b> is an innovative <i>programming school</i>
+  <samp>Hello, hello! I'm Adri. I’m currently learning programming at 42 Málaga Fundación Telefónica. <b>Campus 42</b> is an innovative <i>programming school</i>
    that offers an educational approach without traditional teachers or classes. With a project-based learning method
    and <b>peer-to-peer</b> collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
   </samp>
@@ -83,13 +83,6 @@ You can click the Preview link to take a look at your changes.
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsaruz&show_icons=true&theme=radical" alt="stats" />
-</p>
 
 ---
 
