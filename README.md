@@ -69,7 +69,8 @@ You can click the Preview link to take a look at your changes.
    that offers an educational approach without traditional teachers or classes. With a project-based learning method
    and <b>peer-to-peer</b> collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
 - 💻 Languages & technologies:
-  - **C** (main focus)  
+  - **C** (main focus)
+  - **C++** *(learning)*
   - **Python** *(learning)*  
   - **HTML, CSS, JavaScript** *(learning)*  
 - 🛡 Completed the **Google Cybersecurity Fundamentals** course in 2024
