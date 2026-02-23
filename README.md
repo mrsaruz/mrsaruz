@@ -65,30 +65,33 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🚀 About Me
+
 - 🎓 Currently studying at **42 Málaga**. <b>Campus 42</b> is an innovative <i>programming school</i>
    that offers an educational approach without traditional teachers or classes. With a project-based learning method
    and <b>peer-to-peer</b> collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
-- 💻 Languages & technologies:
-  - **C** (main focus)
-  - **C++** *(learning)*
-  - **Python** *(learning)*  
-  - **HTML, CSS, JavaScript** *(learning)*  
-- 🛡 Completed the **Google Cybersecurity Fundamentals** course in 2024
-- 📚 Enrolled in **CS50x: Introduction to Computer Science** at **Harvard John A. Paulson School of Engineering and Applied Sciences**
+- 💻 Main focus: **C** and **C++**  
+- 🔥 Current streak: Contributing daily to my projects  
+- 📚 Learning: Data structures, algorithms, and OOP  
+- 🛡️ Completed the **Google Cybersecurity Fundamentals** course in 2024  
+- 🎓 Enrolled in **CS50x: Introduction to Computer Science** at Harvard John A. Paulson School of Engineering and Applied Sciences
 
 ---
 
 ### 🛠️ Tech Stack
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🌱 Currently Learning
-- Deepening knowledge of **C** through 42 projects  
+- Deepening knowledge of **C** through 42 projects
+- Advanced **C++ OOP concepts**
 - Data structures & algorithms (CS50x)  
 - Best practices in **cybersecurity**  
 - Web development with **HTML, CSS, and JavaScript**  
@@ -96,10 +99,30 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianaruz/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adrianaruz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianaruz/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsaruz)
 
 ---
 
-<p align="center"><em>"Code is not just instruction, it's also art and a path of constant learning."</em></p>
+> *"Code is not just instruction, it's also art and a path of constant learning."*
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=mrsaruz&color=blueviolet&style=for-the-badge)
+
+---
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrsaruz&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+![42](https://img.shields.io/badge/42-Málaga-000000?style=for-the-badge&logo=42&logoColor=white)
+![C](https://img.shields.io/badge/C-Main_Focus-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
