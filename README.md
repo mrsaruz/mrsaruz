@@ -55,25 +55,24 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h3 align="center">✨ Hello, hello, I'm Adriana (aka mrsaruz) ✨</h3>
+<h2 align="center">✨ Hello, hello, I'm Adriana (aka mrsaruz) ✨</h2>
 
+<h3 align="center">
+  Software Engineer in the making | C & C++ Developer. 
+</h3>
 <p align="center">
-  Programming student at <strong>42 Málaga</strong> since September 2024.  
-  Passionate about technology, continuous learning, and creativity through code.  
+  From 20 years of technical coordination in film to software engineering in C/C++. 
 </p>
 
 ---
 
 ### 🚀 About Me
-
-- 🎓 Currently studying at **42 Málaga**. <b>Campus 42</b> is an innovative <i>programming school</i>
-   that offers an educational approach without traditional teachers or classes. With a project-based learning method
-   and <b>peer-to-peer</b> collaboration, students develop technical and problem-solving skills in a dynamic and challenging environment.
-- 💻 Main focus: **C** and **C++**  
-- 🔥 Current streak: Contributing daily to my projects  
-- 📚 Learning: Data structures, algorithms, and OOP  
-- 🛡️ Completed the **Google Cybersecurity Fundamentals** course in 2024  
-- 🎓 Enrolled in **CS50x: Introduction to Computer Science** at Harvard John A. Paulson School of Engineering and Applied Sciences
+- 🎓 **Software Engineering** at 42 Málaga: Currently tackling the Common Core, a high-performance program focused on low-level systems and peer-to-peer problem solving.
+- 💻 **Main Focus**: Low-level systems in C and Object-Oriented Programming (OOP) in C++.
+- 📚 **Current Milestone**: Deepening into the STL (Standard Template Library) and advanced memory management.
+- 🛡️ **Cybersecurity**: Google Certified in Cybersecurity Fundamentals (2024).
+- 🎓 **Computer Science Foundations**: Enrolled in CS50x (HarvardX) to consolidate algorithmic thinking and data structures.
+- 🔥 **Current Streak**: Writing and debugging code daily.
 
 ---
 
@@ -90,8 +89,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🌱 Currently Learning
-- Deepening knowledge of **C** through 42 projects
-- Advanced **C++ OOP concepts**
+- Low-level systems programming in **C** through 42 projects
+- Software architecture & STL (Standard Template Library) in **C++**.
 - Data structures & algorithms (CS50x)  
 - Best practices in **cybersecurity**  
 - Web development with **HTML, CSS, and JavaScript**  
@@ -104,7 +103,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-> *"Code is not just instruction, it's also art and a path of constant learning."*
+> *"Building software is like directing a scene: every line of code must have a purpose, and every piece must fit perfectly for the story to work."*
 
 ---
 
