@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h2 align="center">✨ Hello, hello, I'm Adriana (aka mrsaruz) ✨</h2>
+<h2 align="center">✨ Hello, hello, I'm Adriana ✨</h2>
 
 <h3 align="center">
   Software Engineer in the making | C & C++ Developer. 
