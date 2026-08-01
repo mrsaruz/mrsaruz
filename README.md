@@ -66,17 +66,17 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🚀 About Me
-- 🎓 **Software Engineering** at 42 Málaga: Currently tackling the Common Core, a high-performance program focused on low-level systems and peer-to-peer problem solving.
-- 💻 **Main Focus**: Low-level systems in C and Object-Oriented Programming (OOP) in C++.
-- 📚 **Current Milestone**: Deepening into the STL (Standard Template Library) and advanced memory management.
-- 🛡️ **Cybersecurity**: Google Certified in Cybersecurity Fundamentals (2024).
-- 🎓 **Computer Science Foundations**: Enrolled in CS50x (HarvardX) to consolidate algorithmic thinking and data structures.
-- 🔥 **Current Streak**: Writing and debugging code daily.
+### About Me
+- **Software Engineering** at 42 Málaga: Currently tackling the Common Core, a high-performance program focused on low-level systems and peer-to-peer problem solving.
+- **Main Focus**: Low-level systems in C and Object-Oriented Programming (OOP) in C++.
+- **Current Milestone**: Deepening into the STL (Standard Template Library) and advanced memory management.
+- **Cybersecurity**: Google Certified in Cybersecurity Fundamentals (2024).
+- **Computer Science Foundations**: Enrolled in CS50x (HarvardX) to consolidate algorithmic thinking and data structures.
+- **Current Streak**: Writing and debugging code daily.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/c_intro.php)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Low-level systems programming in **C** through 42 projects
 - Software architecture & STL (Standard Template Library) in **C++**.
 - Data structures & algorithms (CS50x)  
@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 📫 Connect with Me
+### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianaruz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsaruz)
 
@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 ![Profile Views](https://komarev.com/ghpvc/?username=mrsaruz&color=blueviolet&style=for-the-badge)
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -120,7 +120,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 ![42](https://img.shields.io/badge/42-Málaga-000000?style=for-the-badge&logo=42&logoColor=white)
 ![C](https://img.shields.io/badge/C-Main_Focus-00599C?style=for-the-badge&logo=c&logoColor=white)
