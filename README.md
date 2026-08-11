@@ -115,14 +115,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrsaruz&color=blueviolet&style=for-the-badge)
 
----
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrsaruz&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
